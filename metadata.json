@@ -1,0 +1,7 @@
+{
+  "name": "LogiTrack - Order Management & Real-time Tracking",
+  "description": "A comprehensive logistics solution featuring an Admin panel for order management and a User portal for real-time order tracking with live map integration.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
